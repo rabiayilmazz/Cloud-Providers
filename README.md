@@ -7,7 +7,7 @@
     * Another Articles
     * Api Docs 
     * Postman
-    * Python package
+    * Python Docs
     * Java Docs
     * Nodejs Docs
 * [Google Cloud Platform](./Google-Cloud-Platform)
@@ -17,7 +17,7 @@
     * Another Articles
     * Api Docs 
     * Postman
-    * Python package
+    * Python Docs
     * Java Docs
     * Nodejs Docs
 * [Huawei Cloud Service](./Huawei-Cloud-Service)
@@ -37,7 +37,7 @@
     * Another Articles
     * Api Docs 
     * Postman
-    * Python package
+    * Python Docs
     * Java Docs
     * Nodejs Docs
 * [Microsoft Azure Cloud](./Microsoft-Azure-Cloud)
@@ -47,7 +47,7 @@
     * Another Articles    
     * Api Docs 
     * Postman
-    * Python package
+    * Python Docs
     * Java Docs
     * Nodejs Docs
 * [Oracle Cloud Infracstructure OCI](./Oracle-Cloud-Infracstructure-OCI)
@@ -57,6 +57,6 @@
     * Another Articles
     * Api Docs 
     * Postman
-    * Python package
+    * Python Docs
     * Java Docs
     * Nodejs Docs
